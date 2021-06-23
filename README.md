@@ -1,4 +1,4 @@
-# Nenuphar_Prediction
+# Detection-nenuphar
 De l'IA pour détecter les nénuphars et mesurer leur superficie à partir d’images satellites d’étangs
 
 ## Contexte
